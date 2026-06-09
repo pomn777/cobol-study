@@ -1,0 +1,6 @@
+hello
+*.exe
+*.o
+*.so
+*.dll
+.DS_Store
